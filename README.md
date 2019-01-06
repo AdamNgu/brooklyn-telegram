@@ -1,6 +1,6 @@
 # Brooklyn Telegram
 URL: http://www.brooklyntelegram.com/
-
+Back-end server: https://github.com/AdamNgu/brooklyn-telegram-api
 Work in progress, see what I'm doing here:
 https://trello.com/b/DvW4K5LA/brooklyn-telegram
 
